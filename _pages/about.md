@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Yujian's Home Page"
+title: "🧙🏻‍♂ Greetings Fellows!"
 author_profile: true
 redirect_from: 
   - /about/
@@ -11,7 +11,8 @@ redirect_from:
 advised by [Prof. Yalin Wang](https://gsl.lab.asu.edu/) and 
 co-advised by [Prof. Zhong-Lin Lu](https://bcs.shanghai.nyu.edu/en/peoples/faculty-affiliates/zhong-lin-lu) (NYU). 
 My research focuses on **geometric deep learning, medical imaging, fMRI signal analysis, 
-brain surface mesh, computational neuroscience and generative models**. 
+brain surface mesh, computational neuroscience and generative models**.
+
 I received my M.S. from UC San Diego and B.S. in Physics from Fudan University.
 
 ## 🔥 News
