@@ -26,3 +26,7 @@ I received my M.S. from UC San Diego and B.S. in Physics from Fudan University.
 * 🧠 *2024*: Paper accepted at **ISBI 2024 (Oral)** — Reconstructing Retinal Visual Images from 3T fMRI Data Enhanced by Unsupervised Learning. [[arXiv]](https://arxiv.org/abs/2404.05107)
 * 🤝 *2024*: Paper accepted at **WACV 2024** — CUNSB-RFIE: Context-aware Unpaired Neural Schrödinger Bridge in Retinal Fundus Image Enhancement. [[arXiv]](https://arxiv.org/abs/2409.10966)
 * 📊 *2024*: Paper accepted at **WACV 2024** — Context-Aware Optimal Transport Learning for Retinal Fundus Image Enhancement. [[arXiv]](https://arxiv.org/abs/2409.07862)
+* 🧬 *2024*: Challenge Awarded at **MICCAI Challenge UWF4DR 2024** — DME-MobileNet: Fine-Tuning nnMobileNet for Diabetic Macular Edema Classification.
+* 👁️ *2024*: Paper published at **Journal of Vision** — Visual Inputs Reconstructing through Enhanced 3T fMRI Data from Optimal Transport Guided Generative Adversarial Network.
+* 🔬 *2023*: Paper accepted at **SPIE Medical Imaging 2023** — Characterizing Visual Cortical Magnification with Topological Smoothing and Optimal Transportation. [[arXiv]](https://arxiv.org/abs/2404.06505)
+* 🏛️ *2022*: Presented at **12th Annual ASU–BNI Neuroscience Research Symposium** — Planar Cortical Magnification Measurement with Topological Smoothing and Optimal Transportation.
