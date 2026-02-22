@@ -16,7 +16,7 @@ I received my M.S. from UC San Diego and B.S. in Physics from Fudan University.
 
 ## 🔥 News
 
-* 🎉 *Jan 2026*: Paper accepted by **NeuroImage** — Quantification of Planar Cortical Magnification with Optimal Transport and Topological Smoothing. [[DOI]](https://doi.org/10.1016/neuroimage.2026.121690)
+* 🎉 *Jan 2026*: Paper accepted by **NeuroImage** — Quantification of Planar Cortical Magnification with Optimal Transport and Topological Smoothing. [[DOI]](https://doi.org/10.1016/j.neuroimage.2026.121690)
 * 🔍 *2025*: Paper under review at **CVPR 2026** — RFT: Receptive Field Transformer for Human Brain Visual fMRI Response Prediction.
 * 🔍 *2025*: Paper under review at **CVPR 2026** — OctEncoder: Octree-based Transformer MAE on Tetrahedral and Triangular Meshes.
 * 🔍 *2025*: Paper under review at **CVPR 2026** — OTPrune: Distribution-Aligned Visual Token Pruning via Optimal Transport.
