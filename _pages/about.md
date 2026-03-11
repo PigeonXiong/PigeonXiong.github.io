@@ -20,7 +20,7 @@ I am also working on designing **homebrew TRPG content, Tarvern-based mini RPGs,
 * 🏆 *Mar 2025*: Presented at **WACV 2026 P2P-CV (Oral)**!
 * 🔍 *Feb 2026*: Paper under review at **MICCAI 2026** — OctEncoder: Octree-based Transformer MAE on Tetrahedral and Triangular Meshes.
 * 🎉 *Feb 2026*: Paper accepted by **CVPR 2026** — LLaDA-MedV: Exploring Large Language Diffusion Models for Biomedical Image Understanding. [[arXiv]](https://arxiv.org/abs/2508.01617)
-* 🎉 *Feb 2026*: Paper accepted by **CVPR 2026** — OTPrune: Distribution-Aligned Visual Token Pruning via Optimal Transport. [[arXiv]](https://arxiv.org/abs/2602.20205)
+* 🎉 *Feb 2026*: Paper accepted by **CVPR 2026** Findings Workshop — OTPrune: Distribution-Aligned Visual Token Pruning via Optimal Transport. [[arXiv]](https://arxiv.org/abs/2602.20205)
 * 🧠 *Jan 2026*: Paper accepted by **NeuroImage** — Quantification of Planar Cortical Magnification with Optimal Transport and Topological Smoothing. [[DOI]](https://doi.org/10.1016/j.neuroimage.2026.121690)
 * 🎉 *2025*: Paper accepted at **WACV 2026 P2P-CV (Oral)** — SGW-GAN: Sliced Gromov-Wasserstein GANs for Retinal Fundus Image Enhancement. [[arXiv]](https://arxiv.org/abs/2601.13417)
 * 🎉 *2025*: Three papers accepted at **WACV 2026 P2P-CV** — Retinal fundus enhancement benchmark, nnMobileNet++, and VAOT. [[VAOT arXiv]](https://arxiv.org/abs/2511.18763)
