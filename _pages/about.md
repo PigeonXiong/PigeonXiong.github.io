@@ -15,6 +15,7 @@ I am also working on designing **homebrew TRPG content, Tarvern-based mini RPGs,
 
 ## 🔥 News
 
+* 🎉 *Feb 2026*: 2 Paper accepted by **ACL 2026 Findings** — [[arXiv]](https://arxiv.org/abs/2505.09655), [[arXiv]](https://arxiv.org/abs/2512.24052)
 * 🏆 *Mar 2025*: Heading towards **GDC 2026**, see you around!
 * 🔍 *Mar 2026*: Paper under review at **ECCV 2026** — RFT: Receptive Field Transformer for Human Brain Visual fMRI Response Prediction.
 * 🏆 *Mar 2025*: Presented at **WACV 2026 P2P-CV (Oral)**!
